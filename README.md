@@ -1,7 +1,4 @@
 
 # PitchPerfect
-Recording audio application 
-
-
-# PitchPerfectCopy
+pitchperfect is an IOS application that records audio and play it back with different audio effects.
 
